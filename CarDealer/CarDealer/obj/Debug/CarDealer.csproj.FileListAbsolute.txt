@@ -1,0 +1,9 @@
+C:\Users\20031748\source\repos\CarDealer\CarDealer\bin\Debug\CarDealer.exe.config
+C:\Users\20031748\source\repos\CarDealer\CarDealer\bin\Debug\CarDealer.exe
+C:\Users\20031748\source\repos\CarDealer\CarDealer\bin\Debug\CarDealer.pdb
+C:\Users\20031748\source\repos\CarDealer\CarDealer\obj\Debug\CarDealer.csprojAssemblyReference.cache
+C:\Users\20031748\source\repos\CarDealer\CarDealer\obj\Debug\CarDealer.Properties.Resources.resources
+C:\Users\20031748\source\repos\CarDealer\CarDealer\obj\Debug\CarDealer.csproj.GenerateResource.cache
+C:\Users\20031748\source\repos\CarDealer\CarDealer\obj\Debug\CarDealer.exe
+C:\Users\20031748\source\repos\CarDealer\CarDealer\obj\Debug\CarDealer.pdb
+C:\Users\20031748\source\repos\CarDealer\CarDealer\obj\Debug\CarDealer.Form1.resources

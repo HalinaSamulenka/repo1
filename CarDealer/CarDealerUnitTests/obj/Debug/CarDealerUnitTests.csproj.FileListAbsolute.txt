@@ -1,0 +1,16 @@
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\CarDealerUnitTests.dll
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\CarDealerUnitTests.pdb
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\CarDealer.exe
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\CarDealer.pdb
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\CarDealer.exe.config
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\obj\Debug\CarDealerUnitTests.csprojAssemblyReference.cache
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\obj\Debug\CarDealerUnitTests.csproj.CopyComplete
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\obj\Debug\CarDealerUnitTests.dll
+C:\Users\20031748\source\repos\CarDealer\CarDealerUnitTests\obj\Debug\CarDealerUnitTests.pdb
